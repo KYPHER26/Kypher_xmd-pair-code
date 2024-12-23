@@ -20,7 +20,7 @@ function removeFile(FilePath){
 router.get('/', async (req, res) => {
     const id = makeid();
     let num = req.query.number;
-        async function SAMSUNG_MD_PAIR_CODE() {
+        async function KYPHER_XMD_PAIR_CODE() {
         const {
             state,
             saveCreds
@@ -58,19 +58,19 @@ router.get('/', async (req, res) => {
 
                let SAMSUNG_MD_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃𝑺𝑨𝑴𝑺𝑼𝑵𝑮_𝑴𝑫
+┃𝐊𝐘𝚸𝚮𝚵𝚪_𝚾𝚳𝐃
 ┃𝑆𝑢𝑐𝑐𝑒𝑠𝑓𝑢𝑙𝑙𝑦
 ┃𝐶𝑜𝑛𝑛𝑒𝑐𝑡𝑒𝑑
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-1️⃣ || 𝐶𝑟𝑒𝑎𝑡𝑜𝑟 =  𝒅𝒂𝒏𝒏𝒚
+1️⃣ || 𝐶𝑟𝑒𝑎𝑡𝑜𝑟 =  𓊈𒆜 _𝐊𝐘𝚸𝚮𝚵𝚪_𒆜𓊉
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-2️⃣ || WhatsApp Channel = https://whatsapp.com/channel/0029VacQFw65Ui2gGv0Kwk1r
+2️⃣ || WhatsApp Channel = https://whatsapp.com/channel/0029VanspvdLtOj55DG0t82Y
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 3️⃣ || check my YouTube channel on how to deploy
- *https://www.youtube.com/@creepy_technology*
+ *https://www.youtube.com/@Kypher_tech*
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-©*𝑺𝑨𝑴𝑺𝑼𝑵𝑮_𝑴𝑫*
+©*𝐂𝚪𝚵𝚫𝚻𝚵𝐃 𝚩𝐘 𝐊𝐘𝚸𝚮𝚵𝚪*
 
 _Don't Forget To Give Star To My Repo_`
  await Pair_Code_By_Danny_Tech.sendMessage(Pair_Code_By_Danny_Tech.user.id,{text:SAMSUNG_MD_TEXT},{quoted:session})
